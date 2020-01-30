@@ -1,0 +1,18 @@
+
+{
+  "login": [
+    {
+      "userId" : 3390,
+      "name" : "Steph Curry",
+      "mobileNo":"9123456",
+      "email" : "steph@gmail.com", 
+      "balance": 1320.5
+    }
+  ],
+  "loginError": {
+    "error": ["ERR_403"]
+  },
+  "loginout": {
+       "error" : []
+   }
+}
